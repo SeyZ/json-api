@@ -58,8 +58,7 @@ application
 ### Ruby <a href="#server-libraries-ruby" id="server-libraries-ruby" class="headerlink"></a>
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers)
-is one of the original exemplar implementations, but is slightly out of date at
-the moment.
+is one of the original exemplar implementations.
 * [The rabl wiki](https://github.com/nesquena/rabl/wiki/Conforming-to-jsonapi.org-format)
 has a page describing how to emit conformant JSON.
 * [RestPack::Serializer](https://github.com/RestPack/restpack_serializer) implements the read elements of json-api. It also supports paging and side-loading.
